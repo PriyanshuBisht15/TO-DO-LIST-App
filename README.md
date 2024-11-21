@@ -45,4 +45,4 @@ interaction.
   python your_script_name.py
 
 ## Output
-![image](https://github.com/user-attachments/assets/aec67e02-a89f-4f10-ab7b-feb355c8339c)
+
