@@ -36,3 +36,11 @@ interaction.
 
 3.View Tasks:
 - When the application starts, it automatically loads tasks from tasklist.txt.
+
+## How to Run
+- Ensure the necessary images (task.png, topbar.png, dock.png, delete.png) are in the Image folder inside the project directory.
+- Open a terminal or command prompt.
+- Navigate to the directory containing the script.
+- Run the script using the command
+  python your_script_name.py
+
