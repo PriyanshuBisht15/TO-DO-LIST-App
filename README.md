@@ -44,3 +44,5 @@ interaction.
 - Run the script using the command
   python your_script_name.py
 
+## Output
+image.png
