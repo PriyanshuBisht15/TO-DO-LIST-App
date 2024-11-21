@@ -3,7 +3,7 @@ The objective of this project is to design, implement, and deploy a userfriendl
 yet effective tool that enables users to organize tasks efficiently, manage their time more effectively, and foster collaboration when working on 
 shared activities.
 
-Scope: 
+## Scope: 
 1. Task Organization: Develop features for creating and prioritizing tasks . 
 2. Time Management: Include functionalities for setting deadlines and 
 reminders.
@@ -11,26 +11,28 @@ reminders.
 interaction.
 4. Collaboration: Enable users to share and collaborate on tasks
 
-Prerequisites:
-1.Python 3.x installed on your system.
-2.The Tkinter library (usually included with Python).
-3.A folder named Image in the same directory as the script, containing the following images:
-   -task.png: Icon for the app and the note icon.
-   -topbar.png: Image for the top bar.
-   -dock.png: Image for the dock.
-   -delete.png: Icon for the delete button.
+## Prerequisites:
+1. Python 3.x installed on your system.
 
-How to Use
+2.The Tkinter library (usually included with Python).
+
+3.A folder named Image in the same directory as the script, containing the following images:
+- task.png: Icon for the app and the note icon.
+- topbar.png: Image for the top bar.
+- dock.png: Image for the dock.
+- delete.png: Icon for the delete button.
+
+## How to Use
 
 1.Add a Task:
--Type the task in the input field at the top.
--Click the "ADD" button to add the task to the list.
--The task will be saved in tasklist.txt.
+- Type the task in the input field at the top.
+- Click the "ADD" button to add the task to the list.
+- The task will be saved in tasklist.txt.
 
 2.Delete a Task:
--Select a task from the list.
--Click the trash icon (delete button) at the bottom of the window.
--The task will be removed from the list and tasklist.txt.
+- Select a task from the list.
+- Click the trash icon (delete button) at the bottom of the window.
+- The task will be removed from the list and tasklist.txt.
 
 3.View Tasks:
--When the application starts, it automatically loads tasks from tasklist.txt.
+- When the application starts, it automatically loads tasks from tasklist.txt.
